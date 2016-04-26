@@ -1,3 +1,10 @@
+#Android官方MVP架构项目解析
+
+两篇简书上的说明文章
+>http://www.jianshu.com/p/389c9ae1a82c
+>http://www.jianshu.com/p/618750ed10a3
+
+
 # Android Architecture Blueprints [beta]
 
 [![Join the chat at https://gitter.im/googlesamples/android-architecture](https://badges.gitter.im/googlesamples/android-architecture.svg)](https://gitter.im/googlesamples/android-architecture?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -80,4 +87,3 @@ This project is **built by the community** and curated by Google and core mainta
 [Mustafa Kurtuldu](https://github.com/mustafa-x) - UX/design
 
 Want to be part of it? Read [how to become a contributor](https://github.com/googlesamples/android-architecture/blob/master/CONTRIBUTING.md) and the [contributor's guide](https://github.com/googlesamples/android-architecture/wiki/Contributions)
-
